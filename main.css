@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+#container {
+  background-color: rgb(237, 174, 235);
+  color: blue;
+  width: 1000px;
+  margin: auto;
+  padding: 10px;
+  font-size: 25px;
+}
+h2 {
+  color: white;
+  font-size: 50px;
+  align-items: center;
+  margin-left: 50px;
+}
+button {
+  background-color: bisque;
+  border-radius: 7px;
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  align-items: center;
+}
+#allposts {
+  padding: 10px;
+  margin: 10px;
+}
